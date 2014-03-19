@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4E2B5F9D-D71B-49F2-AE53-2CC956EAE710}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Exam.Repositories</RootNamespace>
+    <AssemblyName>Exam.Repositories</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActorRepository.cs" />
+    <Compile Include="BaseRepository.cs" />
+    <Compile Include="ExamRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoundRepository.cs" />
+    <Compile Include="SysConfigRepository.cs" />
+    <Compile Include="VotesRepository.cs" />
+    <Compile Include="VotingResultsRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Exam.CommonDAL\Exam.CommonDAL.csproj">
+      <Project>{3049BF20-8575-4023-8443-832D6B242BB0}</Project>
+      <Name>Exam.CommonDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Exam.Interface\Exam.Interface.csproj">
+      <Project>{289652B3-F285-4F7C-B7DF-158613EAFF67}</Project>
+      <Name>Exam.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Exam.Model\Exam.Model.csproj">
+      <Project>{4091AF7E-D53B-4C0C-B2C2-AC305B91BE44}</Project>
+      <Name>Exam.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Exam.Utility\Exam.Utility.csproj">
+      <Project>{1B70E90C-3697-414C-B57B-F2465CE4E3BF}</Project>
+      <Name>Exam.Utility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

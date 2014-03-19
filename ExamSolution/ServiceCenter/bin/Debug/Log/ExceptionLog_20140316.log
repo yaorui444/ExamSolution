@@ -1,0 +1,18 @@
+﻿-------Time: 2014-03-16 22:45:13 8141---------
+混合模式程序集是针对“v2.0.50727”版的运行时生成的，在没有配置其他信息的情况下，无法在 4.0 运行时中加载该程序集。
+   在 Exam.Utility.DbHelper.CreateFactory()
+   在 Exam.Utility.DbHelper.CreateConnection(String connectionString) 位置 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\DbHelper.cs:行号 39
+   在 Exam.Utility.DbHelper..ctor() 位置 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\DbHelper.cs:行号 20
+   在 Exam.Utility.DBConnection..ctor() 位置 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\DBConnection.cs:行号 34
+   在 Exam.Utility.DBConnection.get_Instance() 位置 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\DBConnection.cs:行号 24
+   在 Exam.Repositories.ActorRepository.GetActor(Int32 actorsId) 位置 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Repositories\ActorRepository.cs:行号 69
+----------------------------------------------
+-------Time: 2014-03-16 22:46:19 2479---------
+混合模式程序集是针对“v2.0.50727”版的运行时生成的，在没有配置其他信息的情况下，无法在 4.0 运行时中加载该程序集。
+   在 Exam.Utility.DbHelper.CreateFactory()
+   在 Exam.Utility.DbHelper.CreateConnection(String connectionString) 位置 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\DbHelper.cs:行号 39
+   在 Exam.Utility.DbHelper..ctor() 位置 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\DbHelper.cs:行号 20
+   在 Exam.Utility.DBConnection..ctor() 位置 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\DBConnection.cs:行号 34
+   在 Exam.Utility.DBConnection.get_Instance() 位置 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\DBConnection.cs:行号 24
+   在 Exam.Repositories.ActorRepository.GetActor(Int32 actorsId) 位置 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Repositories\ActorRepository.cs:行号 69
+----------------------------------------------

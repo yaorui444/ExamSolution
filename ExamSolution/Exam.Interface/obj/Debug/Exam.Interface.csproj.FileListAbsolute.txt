@@ -1,0 +1,4 @@
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Interface\bin\Debug\Exam.Interface.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Interface\bin\Debug\Exam.Interface.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Interface\obj\Debug\Exam.Interface.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Interface\obj\Debug\Exam.Interface.pdb

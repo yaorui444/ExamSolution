@@ -1,0 +1,13 @@
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\bin\Debug\Exam.CommonDAL.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\bin\Debug\Exam.CommonDAL.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\bin\Debug\Exam.Model.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\bin\Debug\Exam.Utility.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\bin\Debug\Exam.Model.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\bin\Debug\Exam.Utility.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\obj\Debug\Exam.CommonDAL.csprojResolveAssemblyReference.cache
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\obj\Debug\Exam.CommonDAL.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\obj\Debug\Exam.CommonDAL.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\bin\Debug\Exam.Interface.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.CommonDAL\bin\Debug\Exam.Interface.pdb

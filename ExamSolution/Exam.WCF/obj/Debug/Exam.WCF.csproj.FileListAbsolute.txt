@@ -1,0 +1,4 @@
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.WCF\bin\Debug\Exam.WCF.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.WCF\bin\Debug\Exam.WCF.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.WCF\obj\Debug\Exam.WCF.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.WCF\obj\Debug\Exam.WCF.pdb

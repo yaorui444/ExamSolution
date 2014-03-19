@@ -1,0 +1,16 @@
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\ServiceCenter.exe
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\ServiceCenter.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.Model.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.Repositories.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.Utility.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.CommonDAL.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.Model.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.Repositories.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.Utility.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.CommonDAL.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\obj\x86\Debug\ServiceCenter.csprojResolveAssemblyReference.cache
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\obj\x86\Debug\ServiceCenter.exe
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\obj\x86\Debug\ServiceCenter.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\ServiceCenter.exe.config
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.Interface.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.Interface.pdb

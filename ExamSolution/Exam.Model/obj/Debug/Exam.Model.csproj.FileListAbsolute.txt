@@ -1,0 +1,4 @@
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Model\bin\Debug\Exam.Model.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Model\bin\Debug\Exam.Model.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Model\obj\Debug\Exam.Model.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Model\obj\Debug\Exam.Model.pdb

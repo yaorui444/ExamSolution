@@ -1,0 +1,6 @@
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\bin\Debug\Exam.Utility.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\bin\Debug\Exam.Utility.pdb
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\bin\Debug\System.Data.SQLite.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\bin\Debug\System.Data.SQLite.xml
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\obj\Debug\Exam.Utility.dll
+C:\Users\sorry\Desktop\岚曦软件\ExamSolution\Exam.Utility\obj\Debug\Exam.Utility.pdb
