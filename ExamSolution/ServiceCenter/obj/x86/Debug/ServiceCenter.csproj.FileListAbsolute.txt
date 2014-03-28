@@ -14,3 +14,6 @@ C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\obj\x86\Debug\Ser
 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\ServiceCenter.exe.config
 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.Interface.dll
 C:\Users\sorry\Desktop\岚曦软件\ExamSolution\ServiceCenter\bin\Debug\Exam.Interface.pdb
+C:\Users\sorry\Documents\GitHub\ExamSolution\ExamSolution\ServiceCenter\bin\Debug\ServiceCenter.exe.config
+C:\Users\sorry\Documents\GitHub\ExamSolution\ExamSolution\ServiceCenter\obj\x86\Debug\ServiceCenter.exe
+C:\Users\sorry\Documents\GitHub\ExamSolution\ExamSolution\ServiceCenter\obj\x86\Debug\ServiceCenter.pdb
